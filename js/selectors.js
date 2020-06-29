@@ -15,3 +15,5 @@ function ninjaBabySelector(){
 function divSelector(){
   $('.pics:')
 }
+
+function 
