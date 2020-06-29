@@ -5,5 +5,5 @@ function paragraphSelector(){
 }
 
 function lastImageSelector(){
-  $()
+  $("img['the beatles making faces']")
 }
