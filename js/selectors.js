@@ -5,17 +5,17 @@ function paragraphSelector(){
 }
 
 function lastImageSelector(){
-  $('img:last')
+  return $('img:last')
 }
 
 function ninjaBabySelector(){
-  $('#baby-ninj')
+  return $('#baby-ninj')
 }
 
 function divSelector(){
-  $('.pics')
+  return $('.pics')
 }
 
 function firstListItem(){
-  $('ul#pic-list:first-child')
+  return $('ul#pic-list:first-child')
 }
