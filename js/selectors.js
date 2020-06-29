@@ -12,3 +12,6 @@ function ninjaBabySelector(){
   $('#baby-ninj')
 }
 
+function divSelector(){
+  
+}
